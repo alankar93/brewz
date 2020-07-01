@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "991234709947",
+    "firebase_url": "https://brewz-7807a.firebaseio.com",
+    "project_id": "brewz-7807a",
+    "storage_bucket": "brewz-7807a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991234709947:android:e4d1aafbee8d22c694cc9e",
+        "android_client_info": {
+          "package_name": "com.brewz11.brewz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991234709947-76so356v7n3hifv9p6buiaal1cc4mb31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMK6MwBWi37N0jVjytk9uyT3V1Zt_4Klk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991234709947-76so356v7n3hifv9p6buiaal1cc4mb31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
